@@ -1,0 +1,19 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: MATLAB; SPYDER
+message: Lenguaje m; python
+type: software
+authors:
+  - given-names: Johana Jazmin
+    family-names: 'De La Torre Gomez '
+    email: l22211751@tectijuana.edu.mx
+    affiliation: Tecnm-ITT
+repository-code: 'https://github.com/JohanaDlt/Practica5MSF'
+keywords:
+  - >-
+    Palabras clave; Globulos rojos; Eritrocitos; Modelo matemático; Transfusion, Paciente.
+license: BSD-2-Clause
+version: '1.0'
+date-released: '2025-11-7'
