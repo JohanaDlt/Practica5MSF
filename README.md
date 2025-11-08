@@ -44,7 +44,7 @@ Palabras clave: Globulos rojos; Eritrocitos; Modelo matematico; Transfusion; Pac
 ## Lista de archivos incluidos en el repositorio
 
 1. Cuaderno computacional de MATLAB \[.mlx].
-2. Imágenes de las simulaciones \[.pdf y .png].
+2. Imágenes de las simulaciones \[.pdf].
 
 ## Referencias
 
